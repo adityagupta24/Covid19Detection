@@ -10,7 +10,7 @@ WEBSITE LINK : http://covid19detector-xray.herokuapp.com
 
 	$ sudo apt install git
 
-	$ git clone https://github.com/adityagupta24/Covid19Detection
+	$ git clone https://github.com/adityagupta24/Covid19Detection.git
 
 	$ cd Covid19Detection
 
